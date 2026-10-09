@@ -33,8 +33,9 @@ Le détail — lecteur visé, décisions à éclairer, indicateurs retenus — e
 | | |
 |---|---|
 | Fichier | [`donnees/supermarket_sales.csv`](donnees/supermarket_sales.csv) |
-| Contenu | Ventes d'une chaîne de supermarchés, 3 succursales |
-| Provenance | *à compléter* |
+| Contenu | Ventes d'une chaîne de supermarchés au Myanmar, 3 succursales |
+| Provenance | Téléchargé depuis [selva86/datasets](https://github.com/selva86/datasets/blob/master/supermarket_sales.csv) (GitHub), qui le reprend du jeu Kaggle d'origine *aungpyaeap/supermarket-sales*. Le même fichier est republié sur [Kaggle](https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales) (2024). Identité des fichiers vérifiée le 09/10/2026 |
+| Licence | Non précisée par la source d'origine. Usage ici : projet d'apprentissage, non commercial |
 | Volume et qualité | *à compléter à l'étape 2* |
 
 ## Résultats
